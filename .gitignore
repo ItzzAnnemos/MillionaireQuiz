@@ -4,66 +4,40 @@ obj/
 
 # User-specific files
 *.user
-*.userosscache
 *.suo
 *.sln.docstates
 
-# Mono Auto Generated Files
-mono_crash.*
-
-# VS Code settings (optional if you use VS Code)
-.vscode/
-
-# Visual Studio specific
+# Visual Studio
 .vs/
 
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+# VS Code
+.vscode/
 
-# Folder config file
-Desktop.ini
-
-# ASP.NET temp files
-**/App_Data/Temp/
-
-# NuGet Packages
-*.nupkg
-packages/
-*.snupkg
-
-# Others
+# Logs
 *.log
 
-# DotCover
-.idea/
-.dotCover/
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
 
-# Resharper
-_ReSharper*/
-*.[Rr]e[Ss]harper
-*.DotSettings.user
-
-# Rider
-.idea/
-
-# Azure Pipelines
-.vsts/
-
-# Local test results
+# Test results
 TestResults/
 *.TestResults
 
-# Auto-generated AI data
-*.g.cs
-*.designer.cs
+# NuGet
+*.nupkg
+*.snupkg
+packages/
 
-# Publish directory
+# Rider / Resharper
+.idea/
+_ReSharper*/
+*.DotSettings.user
+
+# Publish
 publish/
 
-# Backup files
-*.bak
-
-# Environment secrets
+# Optional: environment files
 .env
 *.env
