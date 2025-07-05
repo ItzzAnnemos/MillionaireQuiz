@@ -206,7 +206,7 @@
             callFriendButton.Name = "callFriendButton";
             callFriendButton.Size = new Size(182, 29);
             callFriendButton.TabIndex = 31;
-            callFriendButton.Text = "Повикај пријател";
+            callFriendButton.Text = "Call a Friend";
             callFriendButton.UseVisualStyleBackColor = true;
             callFriendButton.Click += button5_Click;
             // 
@@ -226,7 +226,7 @@
             askAudienceButton.Name = "askAudienceButton";
             askAudienceButton.Size = new Size(182, 29);
             askAudienceButton.TabIndex = 33;
-            askAudienceButton.Text = "Прашај ја публиката";
+            askAudienceButton.Text = "Ask the Audience";
             askAudienceButton.UseVisualStyleBackColor = true;
             askAudienceButton.Click += button5_Click;
             // 
@@ -357,7 +357,7 @@
             textBox16.ReadOnly = true;
             textBox16.Size = new Size(200, 27);
             textBox16.TabIndex = 60;
-            textBox16.Text = "100 ден.";
+            textBox16.Text = "100 EUR.";
             textBox16.TextAlign = HorizontalAlignment.Center;
             // 
             // textBox17
@@ -367,7 +367,7 @@
             textBox17.ReadOnly = true;
             textBox17.Size = new Size(200, 27);
             textBox17.TabIndex = 59;
-            textBox17.Text = "200 ден.";
+            textBox17.Text = "200 EUR.";
             textBox17.TextAlign = HorizontalAlignment.Center;
             // 
             // textBox18
@@ -377,7 +377,7 @@
             textBox18.ReadOnly = true;
             textBox18.Size = new Size(200, 27);
             textBox18.TabIndex = 58;
-            textBox18.Text = "300 ден.";
+            textBox18.Text = "300 EUR.";
             textBox18.TextAlign = HorizontalAlignment.Center;
             // 
             // textBox19
@@ -387,7 +387,7 @@
             textBox19.ReadOnly = true;
             textBox19.Size = new Size(200, 27);
             textBox19.TabIndex = 57;
-            textBox19.Text = "500 ден.";
+            textBox19.Text = "500 EUR.";
             textBox19.TextAlign = HorizontalAlignment.Center;
             // 
             // textBox20
@@ -397,7 +397,7 @@
             textBox20.ReadOnly = true;
             textBox20.Size = new Size(200, 27);
             textBox20.TabIndex = 56;
-            textBox20.Text = "1 000 ден.";
+            textBox20.Text = "1 000 EUR.";
             textBox20.TextAlign = HorizontalAlignment.Center;
             // 
             // textBox21
@@ -407,7 +407,7 @@
             textBox21.ReadOnly = true;
             textBox21.Size = new Size(200, 27);
             textBox21.TabIndex = 55;
-            textBox21.Text = "2 000 ден.";
+            textBox21.Text = "2 000 EUR.";
             textBox21.TextAlign = HorizontalAlignment.Center;
             // 
             // textBox22
@@ -417,7 +417,7 @@
             textBox22.ReadOnly = true;
             textBox22.Size = new Size(200, 27);
             textBox22.TabIndex = 54;
-            textBox22.Text = "4 000 ден.";
+            textBox22.Text = "4 000 EUR.";
             textBox22.TextAlign = HorizontalAlignment.Center;
             // 
             // textBox23
@@ -427,7 +427,7 @@
             textBox23.ReadOnly = true;
             textBox23.Size = new Size(200, 27);
             textBox23.TabIndex = 53;
-            textBox23.Text = "8 000 ден.";
+            textBox23.Text = "8 000 EUR.";
             textBox23.TextAlign = HorizontalAlignment.Center;
             // 
             // textBox24
@@ -437,7 +437,7 @@
             textBox24.ReadOnly = true;
             textBox24.Size = new Size(200, 27);
             textBox24.TabIndex = 52;
-            textBox24.Text = "16 000 ден.";
+            textBox24.Text = "16 000 EUR.";
             textBox24.TextAlign = HorizontalAlignment.Center;
             // 
             // textBox25
@@ -447,7 +447,7 @@
             textBox25.ReadOnly = true;
             textBox25.Size = new Size(200, 27);
             textBox25.TabIndex = 51;
-            textBox25.Text = "32 000 ден.";
+            textBox25.Text = "32 000 EUR.";
             textBox25.TextAlign = HorizontalAlignment.Center;
             // 
             // textBox26
@@ -457,7 +457,7 @@
             textBox26.ReadOnly = true;
             textBox26.Size = new Size(200, 27);
             textBox26.TabIndex = 50;
-            textBox26.Text = "64 000 ден.";
+            textBox26.Text = "64 000 EUR.";
             textBox26.TextAlign = HorizontalAlignment.Center;
             // 
             // textBox27
@@ -467,7 +467,7 @@
             textBox27.ReadOnly = true;
             textBox27.Size = new Size(200, 27);
             textBox27.TabIndex = 49;
-            textBox27.Text = "125 000 ден.";
+            textBox27.Text = "125 000 EUR.";
             textBox27.TextAlign = HorizontalAlignment.Center;
             // 
             // textBox28
@@ -477,7 +477,7 @@
             textBox28.ReadOnly = true;
             textBox28.Size = new Size(200, 27);
             textBox28.TabIndex = 48;
-            textBox28.Text = "250 000 ден.";
+            textBox28.Text = "250 000 EUR.";
             textBox28.TextAlign = HorizontalAlignment.Center;
             // 
             // textBox29
@@ -487,7 +487,7 @@
             textBox29.ReadOnly = true;
             textBox29.Size = new Size(200, 27);
             textBox29.TabIndex = 47;
-            textBox29.Text = "500 000 ден.";
+            textBox29.Text = "500 000 EUR.";
             textBox29.TextAlign = HorizontalAlignment.Center;
             // 
             // textBox30
@@ -497,7 +497,7 @@
             textBox30.ReadOnly = true;
             textBox30.Size = new Size(200, 27);
             textBox30.TabIndex = 46;
-            textBox30.Text = "1 000 000 ден.";
+            textBox30.Text = "1 000 000 EUR.";
             textBox30.TextAlign = HorizontalAlignment.Center;
             // 
             // Form1

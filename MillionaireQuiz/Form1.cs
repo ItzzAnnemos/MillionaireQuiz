@@ -136,7 +136,7 @@
             }
             else
             {
-                MessageBox.Show("Вашиот одговор е погрешен! Играта е завршена!");
+                MessageBox.Show("Your answer is incorrect! The game is over!");
                 await Task.Delay(1000);
                 Application.Exit();
             }
@@ -157,13 +157,13 @@
                 bool loaded = await FetchAndLoadNewQuestionAsync(difficulty);
                 if (!loaded)
                 {
-                    MessageBox.Show("Не можам да го вчитам следното прашање. Играта завршува.");
+                    MessageBox.Show("The next question could not be loaded. The game will now end.");
                     Application.Exit();
                 }
             }
             else
             {
-                MessageBox.Show("Квизот е завршен!");
+                MessageBox.Show("The quiz has ended.!");
                 await Task.Delay(5000);
                 Application.Exit();
             }
@@ -205,11 +205,11 @@
 
             if (clickedButton == callFriendButton)
                 {
-                MessageBox.Show("Мислам дека точниот одговор е под " + friendLetter, "Побарај пријател");
+                MessageBox.Show("I believe the correct answer is " + friendLetter, "Phone a Friend");
                 }
             else if (clickedButton == askAudienceButton)
             {
-                MessageBox.Show("Публиката гласа за: " + friendLetter, "Прашај ја публиката");
+                MessageBox.Show("The audience votes for: " + friendLetter, "Ask the Audience");
             }
 
             clickedButton.Enabled = false;
