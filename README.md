@@ -24,7 +24,7 @@ A simple Windows Forms game inspired by "Who Wants to Be a Millionaire", where p
 
 ## Documentation
 
-># Подетално упатсво и слики се достапни во прикачениот документ.
+># Подетално упатсво и слики се достапни во прикачениот документ. [Millionaire Quiz - VP.docx](./Millionaire%20Quiz%20-%20VP.docx)
 
 **Authors:**
 - Мартин Розин Сопков 223222  
