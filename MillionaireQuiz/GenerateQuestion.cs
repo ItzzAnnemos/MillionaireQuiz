@@ -6,7 +6,7 @@ using Newtonsoft.Json.Linq;
 
 public static class GenerateQuestion
 {
-    private const string ApiKey = "AIzaSyANVvT-VcWtZ_1uA8y1fARoKnvXqGZGLsI"; // Replace with your actual key
+    private const string ApiKey = ""; // Replace with your actual key
     private static readonly string Endpoint = $"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={ApiKey}";
 
     public static async Task<string> GenerateQuestionAsync(string difficulty)
